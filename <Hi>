@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+  <title>Information About Rabbits</title>
+
+  <style>
+  body{
+      background-color:greenyellow;
+      font-style:"cursive", sans-serif;
+  }
+  h1{
+      color:blue;
+      text-decoration: none;
+  }
+  h2{
+      color:rgb(67, 3, 243);
+      text-decoration: none;
+  }
+  #first-paragraph{
+      color:royalblue;
+      text-decoration: none;
+  }
+  #second-paragraph{
+      color:red;
+      text-decoration: none;
+  }
+  #me{
+      color:green;
+      text-decoration: none;
+  }
+  .t{
+      color:rgb(67, 3, 243);
+      text-decoration: none;
+  }
+  #ad{
+      background-color:dodgerblue;
+      font-family: cursive;
+  }
+  
+
+  
+  </style>
+
+  <body>
+  <h1>Welcome To The World Of Rabbits.</h1>
+  <h2>Basic Information<h2>
+  <p id="first-paragraph">Rabbits are small <em>Mammals</em> in the family of <strong>Leporidie.</strong>
+   The same family of <em>Pika and Hare.</p> <p id="second-paragraph"></em>Their <strong>Kingdom</strong> is <strong>Animalia</strong>.
+   Male rabbits are called bucks; females are called does. An older term for an adult rabbit is coney,
+    while rabbit once referred only to the young animals.
+   Mostly Rabbits are called Bunnies and are kept as <em>pets</em>. <img src="file://C:/Users/Admin/Pictures/Sample-Pictures/Koala" alt="A Koala On Tree"> </img> </p>
+
+ <p>Read more about them at  <a  target="blank" href="https://www.wikipedia.org">Wikipedia</a></p>
+
+ This Webpage was created by <a target="blank" href=
+  "https://khanacademy.com"  </a>
+
+ <p id=me>CaptainisaCap</p>
+ <button  id="ad" autofocus="true" href="https://www.khanacademy.com">Click Here To Visit His khanacademy profile!</button>
+
+ <p class=t><a href="https//www.khanacademy.com">This is a link to Khan Academy </a></p>
+
+
+
+   
+  </body>
+
+</head>
+</html>
